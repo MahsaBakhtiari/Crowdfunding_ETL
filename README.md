@@ -1,5 +1,7 @@
 # Project # 2 - ETL 
 Members: Mahsa Bakhtiari, Dylan Kelly, Neel Chunara, Lena Hammoud
+![64410a99d52cf88103c4b88c_GDM_16_9](https://github.com/MahsaBakhtiari/Crowdfunding_ETL/assets/131717615/4fc33b7e-58d8-4bd2-8e3c-8fa06e31b6af)
+
 # Summary
 - Description of project goals and purpose
 
