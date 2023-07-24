@@ -22,7 +22,7 @@ This repository is for a mini ETL project meant to demonstrate the practice of b
   - DataFrame is extracted to csv titled "contacts.csv"
 
 # Crowdfunding Database
-- The cration of database schema saved as "crowdfunding_db_schema.sql"
+- The creation of database schema saved as "crowdfunding_db_schema.sql"
 
 # Collaboration Notes
   -TBD on nexts team meeting
