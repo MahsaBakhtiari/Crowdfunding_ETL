@@ -2,6 +2,7 @@
 # crowdfunding ETL
 <font size="1">Members: Mahsa Bakhtiari, Dylan Kelly, Neel Chunara, Lena Hammoudyour</font>
 
+
 ## Overall Summary
 This repository is for a mini ETL project meant to demonstrate the practice of building an ETL pipeline using Python and Pandas; the extraction and transformation of data through regular expressions/ Python dictionary methods. As well as the creation of four csv files used in the development of an ERD/ table schema, which is uploaded into a Postgres databse.
 
