@@ -4,7 +4,7 @@
 
 
 ## Overall Summary
-This repository is for a mini ETL project meant to demonstrate the practice of building an ETL pipeline using Python and Pandas; the extraction and transformation of data through regular expressions/ Python dictionary methods. As well as the creation of four csv files used in the development of an ERD/ table schema, which is uploaded into a Postgres databse.
+This repository is for a mini ETL project which is meant to demonstrate the practice of building an ETL pipeline using Python and Pandas; the extraction and transformation of data through regular expressions/ Python dictionary methods. As well as the creation of four csv files used in the development of an ERD/ table schema, which is uploaded into a Postgres databse.
 
 ### Category DataFrame
  - The creation of a DataFrame containing the "category_id", entries sequentially order for unique "cat"
