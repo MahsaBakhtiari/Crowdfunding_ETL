@@ -15,7 +15,7 @@ This repository is for a mini ETL project which is meant to demonstrate the prac
   - DataFrame is extracted to csv titled "subcategory.csv"
  
 ### Campaign DataFrame 
-  - The creation of a DataFrame containing the following columns: "cf_id","contact_id","company_id","description", "goal", "pledged", "outcome", "backers_count", "country", "currency", "launch_date", and "end_date".
+  - The creation of a DataFrame containing the following columns: "cf_id","contact_id","company_id","description", "goal", "pledged", "outcome", "backers_count",       "country", "currency", "launch_date", and "end_date".
  - DataFrame is extracted to csv titled "campaign.csv"
     
 ### Contacts DataFrame
