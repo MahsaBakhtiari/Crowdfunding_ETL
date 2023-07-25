@@ -26,4 +26,4 @@ This repository is for a mini ETL project which is meant to demonstrate the prac
 - The creation of database schema saved as "crowdfunding_db_schema.sql"
 
 ### Collaboration Notes
-  - Met over the weekend to review and develop codes and strategies to finalize the project 
+  - Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please submit a pull request or open an issue on the GitHub repository. 
